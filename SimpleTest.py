@@ -89,7 +89,7 @@ def main():
     """
     The main entry point of the program.
     """
-    filename = "./questions.csv"  # Replace with the actual filename
+    filename = "./sample-questions.csv"  # Replace with the actual filename
     questions = load_questions(filename)
     random.shuffle(questions)  # Shuffle the questions
 
