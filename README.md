@@ -1,4 +1,4 @@
-# SimpleTest
+# SimpleTest.py
 
 
 Super Simple Multiple Choice Easy to setup Test / 'Flash Card' system.
